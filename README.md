@@ -1,8 +1,8 @@
-# 🎭 DRAMA: Unifying Data Retrieval and Analysis for Open-Domain Queries
+# 🎭 DRAMA: Unifying Data Retrieval and Analysis for Open-Domain Analytic Queries
 
-This repository contains the reproduction artifact for **SIGMOD 2026 Paper 378**:
+This repository contains the reproduction artifact for **SIGMOD 2026 Paper**:
 
-> **DRAMA: Unifying Data Retrieval and Analysis for Open-Domain Queries**
+> **DRAMA: Unifying Data Retrieval and Analysis for Open-Domain Analytic Queries**
 
 ## 🔍 Overview
 
