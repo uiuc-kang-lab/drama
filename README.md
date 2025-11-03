@@ -1,5 +1,8 @@
 # 🎭 DRAMA: Unifying Data Retrieval and Analysis for Open-Domain Analytic Queries
 
+
+[![arXiv](https://img.shields.io/badge/arXiv-2510.27238-b31b1b.svg)](https://arxiv.org/abs/2510.27238)
+
 This repository contains the reproduction artifact for **SIGMOD 2026 Paper**:
 
 > **DRAMA: Unifying Data Retrieval and Analysis for Open-Domain Analytic Queries**
